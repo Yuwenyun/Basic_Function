@@ -1,5 +1,3 @@
-
-```
 function showReverse(input)
 {
     //split() convert the string to array,
@@ -50,4 +48,3 @@ alert(typeof owen); //object
 //get specific object type
 alert(owen instanceof Array); //true
 alert(typeof function(){}); //function
-```
